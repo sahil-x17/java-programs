@@ -1,0 +1,3 @@
+ID: 111 | Name: 145 | Route: station to vishrantvadi | Ticket Price: Rs. 25.0 | Timings: 7,8,9,13,14,15,17,18,19
+ID: 333 | Name: 154 | Route: Lohegao to station | Ticket Price: Rs. 45.0 | Timings: 10,12,14,16,18,20
+ID: 444 | Name: 99 | Route: swargate to station | Ticket Price: Rs. 80.0 | Timings: 8,9,10,13,11,17
